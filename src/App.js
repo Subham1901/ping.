@@ -4,7 +4,7 @@ import Home from "./components/Home";
 import "./style.css";
 function App() {
   return (
-    <Container padding={5} maxW={"container.xl"} margin={"auto"}>
+    <Container padding={5} maxW={"container.md"} margin={"auto"}>
       <Home />
     </Container>
   );
