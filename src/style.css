@@ -1,0 +1,10 @@
+body {
+  font-family: "Open Sans" !important;
+}
+.icons:hover {
+  background: #0e76a8;
+  color: rgb(255, 255, 255) !important;
+}
+.icons {
+  cursor: pointer;
+}
